@@ -818,6 +818,261 @@
 				)
 			)
 		)
+		(symbol "UNITED_CAPACITORS_DATA_BASE:C_C1210C472KFRACAUTO"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "4.7 nF"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "capacitor_footprints:C_1210_140_3225Metric"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.kemet.com/en/us/search.html?q=C1210C472KFRACAUTO"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "CAP SMD 4.7 nF X7R 10% 1210_140 1.5kV"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1210.step"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Capacitor Type" "Ceramic"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - in" "1210_140"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - mm" "3225"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Dielectric" "X7R"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "C1210C472KFRACAUTO"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Kemet"
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "C1210C"
+				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "C_C1210C472KFRACAUTO"
+				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "10%"
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/C1210C472KFRACAUTO"
+				(at 0 -40.64 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "1.5kV"
+				(at 0 -43.18 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "C_C1210C472KFRACAUTO_0_1"
+				(polyline
+					(pts
+						(xy -0.762 -2.032) (xy -0.762 2.032)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -2.032) (xy 0.762 2.032)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_C1210C472KFRACAUTO_1_1"
+				(pin unspecified line
+					(at -3.81 0 0)
+					(length 2.8)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 3.81 0 180)
+					(length 2.8)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "UNITED_CAPACITORS_DATA_BASE:C_CC0603JRNPO9BN221"
 			(pin_names
 				(offset 0.254)
@@ -5045,6 +5300,12 @@
 		)
 	)
 	(junction
+		(at 337.82 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0d336752-1253-4ecb-ae8d-6febd1b6a577")
+	)
+	(junction
 		(at 203.2 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5067,6 +5328,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "346dc11f-427d-42d9-996d-15eb07986d04")
+	)
+	(junction
+		(at 335.28 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "34e33dcf-a08a-44b1-86a8-4dd2a5c73a9e")
+	)
+	(junction
+		(at 129.54 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c7b1e2e-1e60-4c29-a3ef-ca29d3cae8e3")
 	)
 	(junction
 		(at 335.28 129.54)
@@ -5111,6 +5384,18 @@
 		(uuid "67d30b16-71e6-4970-a61b-e002d75ee9f2")
 	)
 	(junction
+		(at 337.82 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70be998a-bea0-492a-81ed-928cd48e0dfa")
+	)
+	(junction
+		(at 129.54 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7df32cdc-b857-4849-a362-263c5fe11c3d")
+	)
+	(junction
 		(at 337.82 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5133,6 +5418,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a253342d-5c37-46e5-9ece-d9d2ed1b2edf")
+	)
+	(junction
+		(at 335.28 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8da005d-b05c-49aa-83c1-1d8fa56b14f0")
 	)
 	(junction
 		(at 248.92 144.78)
@@ -5165,6 +5456,12 @@
 		(uuid "c1269df1-daea-4f83-ba9f-e06eea23c572")
 	)
 	(junction
+		(at 127 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c4e9349b-b1bb-49cf-9d7a-1ed79e6fce82")
+	)
+	(junction
 		(at 200.66 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5187,6 +5484,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f7278840-6e43-4e88-a5f7-6f6c954320e6")
+	)
+	(junction
+		(at 127 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb30efec-8115-439e-80a7-c0feafc1137e")
 	)
 	(no_connect
 		(at 261.62 134.62)
@@ -5224,6 +5527,16 @@
 	)
 	(wire
 		(pts
+			(xy 335.28 167.64) (xy 330.2 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "077d33c7-bfac-4d3d-a689-196111a5a580")
+	)
+	(wire
+		(pts
 			(xy 337.82 129.54) (xy 340.36 129.54)
 		)
 		(stroke
@@ -5231,6 +5544,16 @@
 			(type default)
 		)
 		(uuid "089daf4b-a69c-47bf-bf95-31dfb32c00b6")
+	)
+	(wire
+		(pts
+			(xy 127 154.94) (xy 127 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "093a63ea-1710-4c09-9259-22527a785e16")
 	)
 	(wire
 		(pts
@@ -5284,6 +5607,26 @@
 	)
 	(wire
 		(pts
+			(xy 127 166.37) (xy 127 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b32b611-012b-484f-9b27-dc44e2a020d8")
+	)
+	(wire
+		(pts
+			(xy 261.62 158.75) (xy 261.62 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c47ea30-a96f-4cd1-aab3-0e69f07f3c28")
+	)
+	(wire
+		(pts
 			(xy 200.66 134.62) (xy 200.66 139.7)
 		)
 		(stroke
@@ -5301,6 +5644,26 @@
 			(type default)
 		)
 		(uuid "1f9ad518-e1bd-401d-b377-23f18443428b")
+	)
+	(wire
+		(pts
+			(xy 337.82 154.94) (xy 337.82 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "268c4356-2f37-4f34-8beb-aeb7dcbfb054")
+	)
+	(wire
+		(pts
+			(xy 335.28 167.64) (xy 337.82 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27c121ab-2c9d-4079-8e13-19ac6e1d5c40")
 	)
 	(wire
 		(pts
@@ -5334,6 +5697,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 167.64) (xy 124.46 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "336340d0-2566-4d91-9252-1c4b178dfed7")
+	)
+	(wire
+		(pts
 			(xy 335.28 142.24) (xy 335.28 143.51)
 		)
 		(stroke
@@ -5364,6 +5737,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 167.64) (xy 134.62 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "450fd9a6-012b-49cd-81ee-108e60ca9a2d")
+	)
+	(wire
+		(pts
 			(xy 195.58 134.62) (xy 200.66 134.62)
 		)
 		(stroke
@@ -5391,6 +5774,16 @@
 			(type default)
 		)
 		(uuid "502d2c1b-874d-424b-8c06-2e12b52df4e0")
+	)
+	(wire
+		(pts
+			(xy 129.54 166.37) (xy 129.54 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50b44893-ff0d-4eb5-91d4-fa3021459e0e")
 	)
 	(wire
 		(pts
@@ -5474,6 +5867,26 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 157.48) (xy 265.43 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66087a1c-4128-4199-ade4-4f4b9dc47782")
+	)
+	(wire
+		(pts
+			(xy 337.82 166.37) (xy 337.82 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67b63222-7b8a-427d-9cb6-4c9678af6b3d")
+	)
+	(wire
+		(pts
 			(xy 320.04 129.54) (xy 320.04 132.08)
 		)
 		(stroke
@@ -5521,6 +5934,26 @@
 			(type default)
 		)
 		(uuid "7817a8ab-8f71-475c-891d-57de14273878")
+	)
+	(wire
+		(pts
+			(xy 129.54 154.94) (xy 129.54 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "789e395d-70d8-4970-b010-8091afd9b4ce")
+	)
+	(wire
+		(pts
+			(xy 276.86 157.48) (xy 276.86 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79bec1f8-478f-4e97-b261-9b7fff61a6aa")
 	)
 	(wire
 		(pts
@@ -5584,6 +6017,26 @@
 	)
 	(wire
 		(pts
+			(xy 335.28 154.94) (xy 335.28 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "860d66b3-f257-4497-a6d4-2d3bbb3718b1")
+	)
+	(wire
+		(pts
+			(xy 129.54 154.94) (xy 127 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86a6408d-8ac1-413f-84d5-9ec1f41b986e")
+	)
+	(wire
+		(pts
 			(xy 182.88 144.78) (xy 182.88 134.62)
 		)
 		(stroke
@@ -5591,6 +6044,16 @@
 			(type default)
 		)
 		(uuid "8e0d7213-854c-4a28-97ed-e8baa6c3fe85")
+	)
+	(wire
+		(pts
+			(xy 134.62 154.94) (xy 129.54 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9272b164-56b4-49f2-a810-f598dc190d52")
 	)
 	(wire
 		(pts
@@ -5611,6 +6074,16 @@
 			(type default)
 		)
 		(uuid "944c9469-830d-477c-b3f5-77e0bcb54818")
+	)
+	(wire
+		(pts
+			(xy 337.82 154.94) (xy 340.36 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94a3e0e8-8336-491f-ac55-34f2fc5e9cb3")
 	)
 	(wire
 		(pts
@@ -5664,6 +6137,36 @@
 	)
 	(wire
 		(pts
+			(xy 335.28 167.64) (xy 335.28 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1c7e286-f569-4001-912b-97cefc96b6d5")
+	)
+	(wire
+		(pts
+			(xy 127 154.94) (xy 124.46 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a33c1ec9-9771-481e-bdbc-9fd8cb76e2d4")
+	)
+	(wire
+		(pts
+			(xy 337.82 167.64) (xy 340.36 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a473f4c1-7524-4747-85da-7a477c94a956")
+	)
+	(wire
+		(pts
 			(xy 200.66 167.64) (xy 200.66 168.91)
 		)
 		(stroke
@@ -5671,6 +6174,16 @@
 			(type default)
 		)
 		(uuid "a5e8c50a-a1cf-406d-8888-e3df7f7e63a8")
+	)
+	(wire
+		(pts
+			(xy 335.28 166.37) (xy 335.28 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a68170d0-054b-40a3-95d1-10d2e1d74a31")
 	)
 	(wire
 		(pts
@@ -5701,6 +6214,16 @@
 			(type default)
 		)
 		(uuid "b39cd841-8548-4c58-8ddd-99e3af3dd381")
+	)
+	(wire
+		(pts
+			(xy 129.54 167.64) (xy 127 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b59394b4-e90c-4961-ad4b-66993da31af5")
 	)
 	(wire
 		(pts
@@ -5751,6 +6274,16 @@
 			(type default)
 		)
 		(uuid "c2e8edde-65a0-4c7b-9225-7d06e3636ce6")
+	)
+	(wire
+		(pts
+			(xy 335.28 154.94) (xy 337.82 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c588d454-c916-4da0-823b-193d5c025631")
 	)
 	(wire
 		(pts
@@ -5831,6 +6364,16 @@
 			(type default)
 		)
 		(uuid "d58b0781-d91e-492d-b6cc-144feae85b31")
+	)
+	(wire
+		(pts
+			(xy 330.2 154.94) (xy 335.28 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6e08473-04a0-467a-ba6e-56a88b34fff8")
 	)
 	(wire
 		(pts
@@ -5924,6 +6467,16 @@
 	)
 	(wire
 		(pts
+			(xy 330.2 167.64) (xy 330.2 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb4a0750-8ad7-4b87-a9bb-7cd21560bb12")
+	)
+	(wire
+		(pts
 			(xy 182.88 172.72) (xy 182.88 173.99)
 		)
 		(stroke
@@ -5934,6 +6487,16 @@
 	)
 	(wire
 		(pts
+			(xy 273.05 157.48) (xy 276.86 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1919f3d-f21e-426c-ab67-26c21411e44e")
+	)
+	(wire
+		(pts
 			(xy 144.78 124.46) (xy 129.54 124.46)
 		)
 		(stroke
@@ -5941,6 +6504,26 @@
 			(type default)
 		)
 		(uuid "f47af1d0-8dff-45db-a924-aa66a799a6a8")
+	)
+	(wire
+		(pts
+			(xy 134.62 167.64) (xy 134.62 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7e7e67c-0b44-47ad-820a-42f90c7c59db")
+	)
+	(wire
+		(pts
+			(xy 129.54 167.64) (xy 129.54 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f85e2781-523e-4049-8b20-418be8a3d09a")
 	)
 	(wire
 		(pts
@@ -7027,6 +7610,143 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
+		(at 124.46 167.64 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5df144df-65d1-4778-a8eb-d6ba5113a667")
+		(property "Reference" "TP8"
+			(at 119.38 167.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 121.92 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
+			(at 129.54 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 124.46 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 127 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2c194da7-5a95-409b-9952-e0c4fa80f3f5")
+		)
+		(instances
+			(project "minimal_lt8304"
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 276.86 158.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6094fd28-0101-4368-8c76-6454d8d543d1")
+		(property "Reference" "#PWR12"
+			(at 276.86 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 276.86 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 276.86 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6e932a5b-9583-4a3c-8de0-6d3eea158a23")
+		)
+		(instances
+			(project "minimal_lt8304"
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "#PWR12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-155")
 		(at 336.55 135.89 90)
 		(mirror x)
@@ -7471,6 +8191,78 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
+		(at 340.36 154.94 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6aa7e3fd-388a-4c57-852f-a136091dbe69")
+		(property "Reference" "TP5"
+			(at 345.44 154.9399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 342.9 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
+			(at 335.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 340.36 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 337.82 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b9c0b11a-c399-4cf5-8a63-e41875f98c2e")
+		)
+		(instances
+			(project "minimal_lt8304"
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "TP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 160.02 138.43 0)
 		(unit 1)
@@ -7531,6 +8323,72 @@
 			(project "minimal_lt8304"
 				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
 					(reference "#PWR6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 335.28 168.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "744942ec-c4b7-4d23-bc4c-8127b4c84d9c")
+		(property "Reference" "#PWR14"
+			(at 335.28 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 335.28 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 335.28 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 335.28 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 335.28 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a1011fb-4d9e-4504-90ef-94049b4fb93b")
+		)
+		(instances
+			(project "minimal_lt8304"
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "#PWR14")
 					(unit 1)
 				)
 			)
@@ -7951,6 +8809,241 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-155")
+		(at 128.27 161.29 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8444785e-4615-475c-90d9-1c582556bb93")
+		(property "Reference" "J4"
+			(at 123.19 162.5601 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "FW-02-03-G-D-085-155"
+			(at 123.19 160.0201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"
+			(at 120.65 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
+			(at 118.11 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
+			(at 115.57 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Color" "Black"
+			(at 113.03 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Contact Plating" "Gold"
+			(at 110.49 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Current Rating (A)" "5.2"
+			(at 107.95 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "FW-02-03-G-D-085-155"
+			(at 105.41 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec"
+			(at 102.87 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Angle" "Vertical"
+			(at 100.33 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Style" "Surface Mount"
+			(at 97.79 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Number of Rows" "2"
+			(at 95.25 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "2"
+			(at 92.71 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pitch (mm)" "1.27"
+			(at 90.17 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "FW-xx-03-G-D-085-155"
+			(at 87.63 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "J_FW-02-03-G-D-085-155"
+			(at 85.09 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-155"
+			(at 82.55 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating (V)" "300"
+			(at 80.01 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "0f99f2dc-4413-4043-9715-50511511e3b4")
+		)
+		(pin "4"
+			(uuid "afe8f9be-a97f-4772-91f7-e2e14ef9ee42")
+		)
+		(pin "2"
+			(uuid "58990f4c-e958-4e0d-b453-05ec8a27893d")
+		)
+		(pin "1"
+			(uuid "a4b82d77-46a1-4857-a992-317ba21ce187")
+		)
+		(instances
+			(project "minimal_lt8304"
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_A768KE336M1HLAE042336")
 		(at 320.04 135.89 270)
 		(unit 1)
@@ -8159,6 +9252,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 129.54 168.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "900a5e6e-c88e-40cf-b60e-315f863c834b")
+		(property "Reference" "#PWR15"
+			(at 129.54 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 129.54 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 129.54 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 129.54 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9f4e92b8-2750-4254-b6be-0ca7e50efe97")
+		)
+		(instances
+			(project "minimal_lt8304"
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "#PWR15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_DIODES_DATA_BASE:D_PMEG10020AELR")
 		(at 292.1 129.54 0)
 		(unit 1)
@@ -8310,6 +9469,448 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_C1210C472KFRACAUTO")
+		(at 269.24 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a04d7946-f607-4140-b9a6-466633bd1457")
+		(property "Reference" "C8"
+			(at 269.24 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4.7 nF"
+			(at 269.24 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "capacitor_footprints:C_1210_140_3225Metric"
+			(at 269.24 165.1 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kemet.com/en/us/search.html?q=C1210C472KFRACAUTO"
+			(at 269.24 167.64 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP SMD 4.7 nF X7R 10% 1210_140 1.5kV"
+			(at 269.24 170.18 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1210.step"
+			(at 269.24 172.72 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 269.24 175.26 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - in" "1210_140"
+			(at 269.24 177.8 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - mm" "3225"
+			(at 269.24 180.34 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 269.24 182.88 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1210C472KFRACAUTO"
+			(at 269.24 185.42 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
+			(at 269.24 187.96 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "C1210C"
+			(at 269.24 190.5 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "C_C1210C472KFRACAUTO"
+			(at 269.24 193.04 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 269.24 195.58 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/C1210C472KFRACAUTO"
+			(at 269.24 198.12 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "1.5kV"
+			(at 269.24 200.66 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e4bad103-4931-43be-b5a9-b0c76f447e79")
+		)
+		(pin "2"
+			(uuid "a74181a3-e3b7-4ae2-be03-c46743cc8b4f")
+		)
+		(instances
+			(project ""
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-155")
+		(at 336.55 161.29 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a751d21e-7820-46fa-921e-e6159bb06041")
+		(property "Reference" "J3"
+			(at 341.63 162.5601 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "FW-02-03-G-D-085-155"
+			(at 341.63 160.0201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"
+			(at 344.17 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
+			(at 346.71 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
+			(at 349.25 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Color" "Black"
+			(at 351.79 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Contact Plating" "Gold"
+			(at 354.33 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Current Rating (A)" "5.2"
+			(at 356.87 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "FW-02-03-G-D-085-155"
+			(at 359.41 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec"
+			(at 361.95 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Angle" "Vertical"
+			(at 364.49 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Style" "Surface Mount"
+			(at 367.03 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Number of Rows" "2"
+			(at 369.57 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "2"
+			(at 372.11 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pitch (mm)" "1.27"
+			(at 374.65 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "FW-xx-03-G-D-085-155"
+			(at 377.19 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "J_FW-02-03-G-D-085-155"
+			(at 379.73 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-155"
+			(at 382.27 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating (V)" "300"
+			(at 384.81 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "430042dd-858b-4be3-a0af-35bc72b51e47")
+		)
+		(pin "4"
+			(uuid "81439106-5be4-444c-a6c9-e3f99be0827e")
+		)
+		(pin "2"
+			(uuid "a5d4cd63-f641-403c-9ba3-e60ff3bbe2ad")
+		)
+		(pin "1"
+			(uuid "1057f6f1-9b5e-4f96-a0a0-75c2bf838c5d")
+		)
+		(instances
+			(project "minimal_lt8304"
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil")
 		(at 347.98 147.32 0)
 		(mirror y)
@@ -8438,6 +10039,72 @@
 			(project "minimal_lt8304"
 				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
 					(reference "#PWR11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 261.62 158.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb08a01c-0577-4742-8963-ff6a64bdbf31")
+		(property "Reference" "#PWR13"
+			(at 261.62 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 261.62 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 261.62 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 261.62 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 261.62 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "83a01cff-6a89-4155-a9c8-a023b381ca00")
+		)
+		(instances
+			(project "minimal_lt8304"
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "#PWR13")
 					(unit 1)
 				)
 			)
@@ -9051,6 +10718,146 @@
 			(project "minimal_lt8304"
 				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
 					(reference "#PWR10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
+		(at 340.36 167.64 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d9659c89-8731-440a-8872-ec081251d792")
+		(property "Reference" "TP6"
+			(at 345.44 167.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 342.9 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
+			(at 335.28 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 340.36 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 337.82 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6b04279e-4470-4f50-bef7-0eb186b31f0e")
+		)
+		(instances
+			(project "minimal_lt8304"
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil")
+		(at 347.98 172.72 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dbacf3ad-b3b2-4716-b399-45a5cf3df61c")
+		(property "Reference" "MB3"
+			(at 347.98 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "mouse-bite-midle-50mil-200mil"
+			(at 347.98 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "mouse_bite_footprints:mouse-bite-midle-50mil-200mil"
+			(at 347.98 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 347.98 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 347.98 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "minimal_lt8304"
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "MB3")
 					(unit 1)
 				)
 			)
@@ -11046,6 +12853,73 @@
 	)
 	(symbol
 		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil")
+		(at 116.84 172.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f815e1a5-c323-45d7-852d-337f57b708c8")
+		(property "Reference" "MB4"
+			(at 116.84 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "mouse-bite-midle-50mil-200mil"
+			(at 116.84 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "mouse_bite_footprints:mouse-bite-midle-50mil-200mil"
+			(at 116.84 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 116.84 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "minimal_lt8304"
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "MB4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil")
 		(at 116.84 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11172,6 +13046,77 @@
 			(project "minimal_lt8304"
 				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
 					(reference "#PWR7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
+		(at 124.46 154.94 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9beede5-3953-4387-84de-5ab12dafdb79")
+		(property "Reference" "TP7"
+			(at 119.38 154.9399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 121.92 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
+			(at 129.54 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 124.46 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 127 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "381ddb43-78cc-4406-97db-28175ff7abbc")
+		)
+		(instances
+			(project "minimal_lt8304"
+				(path "/04865bda-335c-4817-92e2-d2b839c8f55e"
+					(reference "TP7")
 					(unit 1)
 				)
 			)
