@@ -510,7 +510,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": ".glb",
+      "step": "minimal_lt8304.step",
       "svg": "",
       "vrml": "minimal_lt8304.wrl"
     },
