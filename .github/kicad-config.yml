@@ -29,36 +29,36 @@ views:
   left:
     prefix: '4_'
     suffix: '_left'
-    zoom_factor: 1
+    zoom_factor: 1.6
     rotate: '0,0,0'
-    pan: '0,0,0'
+    pan: '0,-1,0'
     light_elevation: 10
     side: 'left'
     
   right:
     prefix: '5_'
     suffix: '_right'
-    zoom_factor: 1
+    zoom_factor: 1.6
     rotate: '0,0,0'
-    pan: '0,0,0'
+    pan: '0,-1,0'
     light_elevation: 10
     side: 'right'
     
   front:
     prefix: '6_'
     suffix: '_front'
-    zoom_factor: 1
+    zoom_factor: 1.6
     rotate: '0,0,0'
-    pan: '0,0,0'
+    pan: '0,-1,0'
     light_elevation: 10
     side: 'front'
     
   back:
     prefix: '7_'
     suffix: '_back'
-    zoom_factor: 1
+    zoom_factor: 1.6
     rotate: '0,0,0'
-    pan: '0,0,0'
+    pan: '0,-1,0'
     light_elevation: 10
     side: 'back'
 
